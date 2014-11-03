@@ -1,4 +1,4 @@
-LLYAH
-=====
+# LLYAH
 
-Learning Learn You a Haskell for Great Good!
+A repository for __Learning [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)__
+
